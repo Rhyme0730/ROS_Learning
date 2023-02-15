@@ -7,7 +7,7 @@
 
 2023/2/14 update to p202
 
-
+2023/2/15 update to p206
 
 
 After finishing，purchase a keyboard.
