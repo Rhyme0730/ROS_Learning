@@ -9,5 +9,6 @@
 
 2023/2/15 update to p206
 
+2023/2/16 update to p229
 
 After finishing，purchase a keyboard.
