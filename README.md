@@ -16,4 +16,7 @@
 2023/2/24 update to p252
 
 2023/2/25 update to p261
+
+2023/3/3 update to p275
+
 After finishing，purchase a keyboard.
